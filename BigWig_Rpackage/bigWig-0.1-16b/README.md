@@ -4,7 +4,7 @@ Older version of the bigWig package
 
 R interface to query UCSC bigWig files
 
-Produced by Andre L. Martins (https://github.com/andrelmartinsi)
+Produced by Andre L. Martins (https://github.com/andrelmartins)
 
 Compilation
 ===========
