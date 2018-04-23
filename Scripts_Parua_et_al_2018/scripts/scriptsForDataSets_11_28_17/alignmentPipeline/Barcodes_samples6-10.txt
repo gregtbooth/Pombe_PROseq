@@ -1,0 +1,6 @@
+# This barcode file is used to parse libraries that were combined in PCRfree PROseq. The first 6 bases are TRUseq small RNA barcodes. The last C is added in the design to control for ligation bias. The barcodes listed in order are: 1,2,3,4,5,6,8,9,10,12,15,17
+Pombe_Fisher_WT_rep2     ATTGGCC
+Pombe_Fisher_dis2Del_rep2     TCAAGTC
+Pombe_Fisher_dis2_11_rep2     CTGATCC
+Pombe_Fisher_dis2_T316A_rep2 AAGCTAC
+Pombe_Fisher_dis2_T316D_rep2      TACAAGC
